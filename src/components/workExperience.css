@@ -1,0 +1,17 @@
+.work-experience__container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.work-experience__item {
+  background: var(--color-bg-variant);
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  color: var(--color-light);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+strong {
+    font-size: 15px;
+}
