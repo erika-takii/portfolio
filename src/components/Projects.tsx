@@ -33,9 +33,9 @@ const projects: Project[] = [
   {
     id: 3,
     title: 'My Portfolio (This website)',
-    stack: 'ReactJs',
+    stack: 'React',
     // image: IMG4,
-    github: 'https://github.com/Thakshila-Bandara/my-portfolio',
+    github: 'https://github.com/erika-takii/portfolio',
   },
   {
     id: 4,
