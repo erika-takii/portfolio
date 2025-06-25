@@ -51,7 +51,7 @@ const About = () => {
 
           </div>
           <p>
-            I'm a <b>Computer Sceience Undergradute</b> at Eötvös Loránd University.
+            I'm a <b>Computer Science Undergradute</b> Eötvös Loránd University.
             With experience working as a CRA in oncology clinical trials, I have gained valuable insights into the healthcare and pharmaceutical sectors.
             I am eager to leverage my technical skills and industry knowledge to contribute as an engineer developing innovative solutions that improve patient outcomes.
             As a quick learner and motivated problem-solver, I am seeking a challenging internship where I can grow and make a meaningful impact.

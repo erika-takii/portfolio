@@ -1,3 +1,4 @@
+import ThemeToggle from './components/ThemeToggle'
 import Header from './components/Header'
 import Nav from './components/Nav'
 import About from './components/About'
@@ -7,8 +8,10 @@ import Projects from './components/Projects'
 import Footer from './components/Footer'
 
 function App() {
+
   return (
     <>
+      <ThemeToggle/>
       <Nav />
       <Header />
       <About />

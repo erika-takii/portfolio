@@ -1,6 +1,6 @@
 footer {
 
-    background: #f0f4fa;
+    background-color: var(---color-bg-header-footer);
     color: var(--color-light);
     padding: 3rem 0;
     text-align: center;

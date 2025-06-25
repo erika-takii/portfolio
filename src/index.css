@@ -16,13 +16,10 @@
 :root {
 
   --color-bg: #f7fbff;
-  /* より白に近い背景 */
   --color-bg-variant: #e3f2fd;
-  /* 優しいライトブルー */
+  --color-bg-header-footer: #f0f4fa;
   --color-primary: #42a5f5;
-  /* スタイリッシュな青 */
   --color-primary-variant: #90caf9;
-  /* 透明感のある青 */
   --color-white: #ffffff;
   --color-light: #2d2d2d;
 
@@ -33,6 +30,16 @@
   --transition: all 400ms ease;
 
 
+}
+
+[data-theme='dark'] {
+  --color-bg: #0e0e0e;
+  --color-bg-variant: #1a1a1a;
+  --color-primary: #90caf9;
+  --color-primary-variant: #42a5f5;
+  --color-white: #ffffff;
+  --color-light: #eeeeee;
+  background-image: none; 
 }
 
 html {
